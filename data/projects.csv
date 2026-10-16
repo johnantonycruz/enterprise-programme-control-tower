@@ -1,0 +1,19 @@
+project_id,project_name,workstream,rag,owner,budget_gbp,forecast_gbp,next_milestone,milestone_name
+PRJ-001,D365 BC Finance Rollout,ERP,Green,Programme Lead,134208,119208,2026-10-20,Design sign-off
+PRJ-002,Warehouse Management Upgrade,WMS,Green,ERP Lead,172142,172142,2026-10-25,SIT complete
+PRJ-003,Order Integration APIs,Integration,Green,Integration Lead,209885,219885,2026-10-30,UAT complete
+PRJ-004,Cloud Landing Zone,Cloud,Green,Infrastructure Lead,258961,283961,2026-11-04,Release readiness
+PRJ-005,Customer Portal Refresh,Digital,Green,Programme Lead,298980,343980,2026-11-09,Design sign-off
+PRJ-006,Reporting Data Platform,Data,Green,ERP Lead,336448,321448,2026-11-14,SIT complete
+PRJ-007,ERP Supplier Integration,ERP,Green,Integration Lead,135401,135401,2026-11-19,UAT complete
+PRJ-008,Warehouse Scanner Rollout,WMS,Green,Infrastructure Lead,163237,173237,2026-11-24,Release readiness
+PRJ-009,Inventory Event Streaming,Integration,Green,Programme Lead,197219,222219,2026-11-29,Design sign-off
+PRJ-010,Cloud Security Controls,Cloud,Green,ERP Lead,236765,281765,2026-12-04,SIT complete
+PRJ-011,Mobile Returns Journey,Digital,Amber,Integration Lead,296312,281312,2026-12-09,UAT complete
+PRJ-012,Analytics Migration,Data,Amber,Infrastructure Lead,350177,350177,2026-12-14,Release readiness
+PRJ-013,ERP Master Data,ERP,Amber,Programme Lead,127496,137496,2026-12-19,Design sign-off
+PRJ-014,Warehouse Network Readiness,WMS,Amber,ERP Lead,161540,186540,2026-12-24,SIT complete
+PRJ-015,Partner API Gateway,Integration,Amber,Integration Lead,222873,267873,2026-12-29,UAT complete
+PRJ-016,Infrastructure Resilience,Cloud,Red,Infrastructure Lead,255803,240803,2027-01-03,Release readiness
+PRJ-017,Checkout Enhancement,Digital,Red,Programme Lead,306318,306318,2027-01-08,Design sign-off
+PRJ-018,Data Quality Remediation,Data,Red,ERP Lead,334013,344013,2027-01-13,SIT complete
